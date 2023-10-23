@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HitungNilaiPBO {
+public class HitungNilaiAkhirPBO {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
